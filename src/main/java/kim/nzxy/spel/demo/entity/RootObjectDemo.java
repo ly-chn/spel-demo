@@ -13,4 +13,5 @@ public class RootObjectDemo {
     private final Integer integer;
     private final List<String> strList;
     private final Map<String, Object> strObjeMap;
+
 }

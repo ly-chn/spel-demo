@@ -9,7 +9,7 @@ import org.springframework.cache.annotation.CacheEvict;
  */
 public class Demo {
     @Aop("#root.integer")
-    @CacheEvict(key = "getMethodName()")
+    @CacheEvict(key = "systemEnvironment")
     public void demo(String name) {
 
     }

@@ -3,7 +3,6 @@ package kim.nzxy.spel.demo.anno;
 import kim.nzxy.spel.SpELField;
 import kim.nzxy.spel.SpELMethod;
 import kim.nzxy.spel.SpELRoot;
-import kim.nzxy.spel.demo.entity.RootObjectDemo;
 import org.intellij.lang.annotations.Language;
 
 /**
