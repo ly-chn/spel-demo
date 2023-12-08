@@ -31,7 +31,8 @@
             <groupId>kim.nzxy</groupId>
             <artifactId>spel-extension</artifactId>
             <version>0.0.1</version>
-            <scope>provided</scope>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/spel-extension-0.0.1.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
